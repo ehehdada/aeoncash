@@ -77,10 +77,10 @@ docker exec -it myAeonWallet /simpleminer --help
 
 # Credits and donations
 
-Docker image brought you by [ehehdada, ltd.](http://www.ehehdada.com).
+Docker image brought you by [Lucentinian Works Co Ltd and ehehdada, ltd.](https://www.lucentinian.com).
 
 Donation addresses:
 * Aeon cash address `WmtDfMG3PaGJazp9X9P4HhLnMHY6ur9Q9aLTkE7mh8JQPxt8ZTFQs7gRC3nAjyGG3gMxvEBYLBnRHLpAJGF5kzkj2Qx2JEpEg`
 * Bitconnect coin address `8HudVnKaQTu7T5bXCrogHSEVHoPa28RLBX`
 * Peercoin address `PEkmXcgL4wWb2mSZiLXr5cMfRKvpFY1kaA`
-
+* Webchain address `0xe5eb1280be0949127933d697a75138507bd379d2`
